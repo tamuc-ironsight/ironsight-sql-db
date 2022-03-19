@@ -1,6 +1,6 @@
 # Ironsight SQL Database
 
-![SQL Database EER Diagram](/ironsight_db_vector.svg)
+![SQL Database EER Diagram](/ironsight_db_image.png)
 
 Database that Ironsight uses for storing users, virtual machines, labs and templates
 
